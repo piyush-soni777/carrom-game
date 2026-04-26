@@ -1,4 +1,4 @@
-# 🪵 Carrom Game
+# 🪵 Carrom Game.
 
 Carrom Game is an interactive web-based game built using HTML, CSS, and JavaScript.  
 It simulates a digital version of the classic carrom board game with smooth gameplay and engaging UI.
