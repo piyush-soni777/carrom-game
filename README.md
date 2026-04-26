@@ -11,7 +11,7 @@ It simulates a digital version of the classic carrom board game with smooth game
 <img width="1033" height="649" alt="Annotation 2026-04-26 185911" src="https://github.com/user-attachments/assets/62b7c46b-246b-44a3-9c4f-3e5d457cfc4d" />
  
 --- 
- 
+  
 ## ✨ Features
 - 🎯 Interactive carrom gameplay  
 - 🕹️ Smooth controls and movements  
