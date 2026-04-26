@@ -33,3 +33,19 @@ It simulates a digital version of the classic carrom board game with smooth game
 
 ---
 
+---
+
+## 👨‍💻 Author
+**Piyush Soni**  
+💻 Web Developer  
+
+---
+
+## 📌 About Project
+This project recreates the classic carrom board game in a digital format using web technologies.  
+It focuses on game logic, interactivity, and smooth user experience.
+
+---
+
+⭐ If you like this project, don't forget to star the repository!
+
