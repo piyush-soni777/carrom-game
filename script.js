@@ -8,13 +8,13 @@ const BORDER = 40;       // board edge thickness
 const WALL_MIN = BORDER;
 const WALL_MAX_X = W - BORDER;
 const WALL_MAX_Y = H - BORDER;
-const POCKET_R = 24;     // pocket hole radius
-const PIECE_R = 15;      // normal piece radius
-const STRIKER_R = 18;    // striker radius
-const FRICTION = 0.983;  // per-frame velocity multiplier
-const RESTITUTION = 0.72;// bounce energy retention
-const MAX_SPEED = 22;    // max launch speed
-const MAX_DRAG = 120;    // max drag distance in px
+const POCKET_R = 24;     // pocket hole radius/
+const PIECE_R = 15;      // normal piece radius/
+const STRIKER_R = 18;    // striker radius/
+const FRICTION = 0.983;  // per-frame velocity multiplier/
+const RESTITUTION = 0.72;// bounce energy retention/
+const MAX_SPEED = 22;    // max launch speed/
+const MAX_DRAG = 120;    // max drag distance in px/
 
 // ─────────────────────────────────────────
 //  STATE
