@@ -195,7 +195,7 @@ function drawBoard() {
   fg.addColorStop(1, '#1e4810');
   ctx.fillStyle = fg;
   ctx.fillRect(BORDER, BORDER, W - BORDER * 2, H - BORDER * 2);
-
+// develope by piyushSoni
   // Pockets (black circles at corners)
   const pPos = [
     { x: BORDER, y: BORDER },
