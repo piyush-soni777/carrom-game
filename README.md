@@ -39,7 +39,7 @@ It simulates a digital version of the classic carrom board game with smooth game
   
 ## 👨‍💻 Author
 **Piyush Soni**  
-💻 Web Developer.
+💻 Web Developer..
 
 ---
 
